@@ -4,4 +4,4 @@ Replicating a Study material template using HTML bootstrap css with google drive
 For using the template 
 ### 1. Clone the repository
 ### 2. Open index.html in your browser
-### 3. Start doing your relevant changes.
+### 3. Commit your relevant changes.
