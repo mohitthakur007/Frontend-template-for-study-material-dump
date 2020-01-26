@@ -1,4 +1,4 @@
-# WEBSITE TEMPLATE [DEMO](https://dnthakur.github.io/)
+# WEBSITE TEMPLATE 
 Replicating a Study material template using HTML bootstrap css with google drive at backend.
 
 For using the template 
